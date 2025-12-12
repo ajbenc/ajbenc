@@ -20,26 +20,3 @@ Airflow • Docker • Flask • REST APIs
 Machine Learning • Deep Learning • Natural Language Processing (NLP) • Computer Vision • Data Analysis • MLOps  
 
 ---
-
-## ⚙️ Tools & Practices
-- CI/CD pipelines with GitHub Actions  
-- Containerization with Docker  
-- Experiment tracking & reproducibility  
-- Agile collaboration & clear documentation  
-
----
-
-## 📈 Current Focus
-- Building polished ML-driven applications with Streamlit frontends and FastAPI backends  
-- Refining portfolio projects to showcase **EDA, feature engineering, modeling, and deployment**  
-- Expanding multilingual communication (English, Spanish, French) for global collaboration  
-
----
-
-## 🌐 Let’s Connect
-- 💼 [LinkedIn](#)  
-- 📊 [Portfolio](#)  
-- 🐙 [GitHub Projects](#)  
-
----
-
