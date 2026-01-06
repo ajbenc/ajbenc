@@ -5,6 +5,12 @@ Currently, I’m focused on **data analysis, MLOps, and real-world deployment**,
 
 ---
 
+## 🚀 Portfolio
+
+Check my work [here](https://ajbenc-dev.vercel.app/)
+
+---
+
 ## 🧠 Tech Stack & Skills
 
 **Languages & Data Tools**  
@@ -20,3 +26,4 @@ Airflow • Docker • Flask • REST APIs
 Machine Learning • Deep Learning • Natural Language Processing (NLP) • Computer Vision • Data Analysis • MLOps  
 
 ---
+
