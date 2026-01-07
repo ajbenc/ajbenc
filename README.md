@@ -1,13 +1,7 @@
 # Hi there, I'm Julian👋  
 I'm a Machine Learning Engineer passionate about turning data into actionable insights and deploying intelligent solutions at scale. I’ve built end-to-end ML pipelines, deployed models with Docker and REST APIs, and explored cutting-edge frameworks for NLP, Computer Vision, and LLMs.  
 
-Currently, I’m focused on **data analysis, MLOps, and real-world deployment**, blending technical precision with authentic presentation. 
-
----
-
-## 🚀 Portfolio
-
-Check my work [here](https://ajbenc-dev.vercel.app/)
+Currently, I’m focused on **data analysis, MLOps, and real-world deployment**, blending technical precision with authentic presentation. Check my work [here](https://ajbenc-dev.vercel.app/)
 
 ---
 
